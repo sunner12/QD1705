@@ -1,0 +1,20 @@
+{
+  "name": "myzte",
+  "version": "1.0.0",
+  "description": "myzte web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "phone",
+    "sound",
+    "watch"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
